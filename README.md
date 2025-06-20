@@ -120,14 +120,14 @@ _ _ _
   ### CI/CD Pipeline
 - CI/CD(Continuous Integration and Continuous Deployment)automates the process of testing, building, and deploying code. it ensures that every change made to the project is automatically tested and can be safely pushed to production or staging environments with minimal manual effort.
 
- **Benefits**
+ ### Benefits
 -  Automates repetitive manual tasks like testing and deployment
 - Ensures each update is validated before going live
 - Enables smooth collaboration between team members
 - Quickly detects bugs and breaks before they reach users
 - Accelerates the overall development and delivery process
 
-  **Tools Used**
+  ### Tools Used
 - **Docker**:Ensures the same environment is used in development, testing, and production.
 - **GitHub Actions**:Automates workflows like testing, building and deployment on code pushes or pull requests.
  - **PostgreSQL Service**: Included in Docker to automatically set up the database for testing.
