@@ -1,5 +1,5 @@
-# alx-airbnb-database
-SQL Joins Practice
+# alx-airbnb-database:SQL Joins Practice
+
 
 This repository is dedicated to mastering SQL `JOIN` operations through practical exercises on a simulated Airbnb-like booking system database. It includes the full database schema, sample data, and solutions to complex join queries.
 
